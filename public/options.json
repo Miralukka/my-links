@@ -1,0 +1,56 @@
+{
+  "user": {
+    "language": "pt_BR",
+    "name": "Setsuya",
+    "bio": "Gosto de umas bandas japonesas estranhas, de video-game, de tocar e gravar música quando dá e de programar. É basicamente isso aí mesmo, sou um clichê ambulante."
+  },
+  "background": {
+    "color": "#0f0f0f",
+    "image": "https://images.pexels.com/photos/220072/pexels-photo-220072.jpeg"
+  },
+  "buttons": {
+    "color": "#d9d9d9",
+    "hover_color": "#ccccff",
+    "text_color": "#1f1f1f"
+  },
+  "groups": [
+    "Social networks",
+    "Gaming"
+  ],
+  "networks": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/tiagomscabral",
+      "icon": "twitter",
+      "group": "Social networks"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/tiagomscabral",
+      "icon": "instagram",
+      "group": "Social networks"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/user/22spnlxmhkz3a7tnbehla555i",
+      "icon": "spotify"
+    },
+    {
+      "name": "PSN",
+      "url": "https://psnprofiles.com/Setsuya_",
+      "icon": "playstation",
+      "group": "Gaming"
+    },
+    {
+      "name": "Steam",
+      "url": "https://steamcommunity.com/profiles/76561198031605589",
+      "icon": "steam",
+      "group": "Gaming"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/setsuya",
+      "icon": "github"
+    }
+  ]
+}
