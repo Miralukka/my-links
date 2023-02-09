@@ -1,34 +1,32 @@
 {
   "user": {
     "language": "pt_BR",
-    "name": "Setsuya",
-    "bio": "Gosto de umas bandas japonesas estranhas, de video-game, de tocar e gravar música quando dá e de programar. É basicamente isso aí mesmo, sou um clichê ambulante."
+    "name": "Luiza Vieira",
+    "bio": "32 Anos - Rio de Janeiro"
   },
   "background": {
     "color": "#0f0f0f",
-    "image": "https://images.pexels.com/photos/220072/pexels-photo-220072.jpeg"
+    "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTqYXfg3cYLZUhs0tY-T1ZaZvEkSQOkjwmqvm6ONuEA3ApQGSJP5p2HHJtDrocqZooG2Js0JFzAslFzLvxtgdG1a8Uqeg=w1360-h695"
   },
   "buttons": {
-    "color": "#d9d9d9",
-    "hover_color": "#ccccff",
-    "text_color": "#1f1f1f"
+    "color": "#FFFFFF",
+    "hover_color": "#40E0D0",
+    "text_color": "#000000"
   },
   "groups": [
-    "Social networks",
-    "Gaming"
   ],
   "networks": [
     {
       "name": "Twitter",
       "url": "https://twitter.com/tiagomscabral",
       "icon": "twitter",
-      "group": "Social networks"
+      "group": ""
     },
     {
       "name": "Instagram",
       "url": "https://instagram.com/tiagomscabral",
       "icon": "instagram",
-      "group": "Social networks"
+      "group": 
     },
     {
       "name": "Spotify",
@@ -39,18 +37,7 @@
       "name": "PSN",
       "url": "https://psnprofiles.com/Setsuya_",
       "icon": "playstation",
-      "group": "Gaming"
-    },
-    {
-      "name": "Steam",
-      "url": "https://steamcommunity.com/profiles/76561198031605589",
-      "icon": "steam",
-      "group": "Gaming"
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/setsuya",
-      "icon": "github"
+      "group": ""
     }
   ]
 }
