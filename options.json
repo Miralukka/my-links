@@ -19,14 +19,12 @@
     {
       "name": "Twitter",
       "url": "https://twitter.com/tiagomscabral",
-      "icon": "twitter",
-      "group":
+      "icon": "twitter"
     },
     {
       "name": "Instagram",
       "url": "https://instagram.com/tiagomscabral",
-      "icon": "instagram",
-      "group": 
+      "icon": "instagram"
     },
     {
       "name": "Spotify",
@@ -36,8 +34,7 @@
     {
       "name": "PSN",
       "url": "https://psnprofiles.com/Setsuya_",
-      "icon": "playstation",
-      "group":
+      "icon": "playstation"
     }
   ]
 }
