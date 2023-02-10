@@ -16,24 +16,24 @@
   "groups": [],
   "networks": [
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/tiagomscabral",
-      "icon": "twitter"
+      "name": "Textos",
+      "url": "https://www.canva.com/design/DAFDmkiSVug/xksGq5vS8ys6i0RYRe6fhg/view?utm_content=DAFDmkiSVug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "icon": "blogger"
     },
     {
-      "name": "Instagram",
-      "url": "https://instagram.com/tiagomscabral",
+      "name": "Social Media",
+      "url": "https://www.canva.com/design/DAFDdPBRa-8/L1AbrBwYmFOIgz-uS-gWEA/view?utm_content=DAFDdPBRa-8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
       "icon": "instagram"
     },
     {
-      "name": "Spotify",
-      "url": "https://open.spotify.com/user/22spnlxmhkz3a7tnbehla555i",
-      "icon": "spotify"
+      "name": "Criação de Conteúdo",
+      "url": "https://www.behance.net/gallery/138629083/Social-Media-Lu-Vieira",
+      "icon": "behance"
     },
     {
-      "name": "PSN",
-      "url": "https://psnprofiles.com/Setsuya_",
-      "icon": "playstation"
+      "name": "Relatórios Métricas",
+      "url": "https://www.behance.net/gallery/138629083/Social-Media-Lu-Vieira",
+      "icon": "behance"
     }
   ]
 }
